@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins';
+    background-color: #01193d;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo{
+    
+    color: aliceblue;
+    font-size:1rem;
+}
+
+div{
+    width: 500px;
+    background-color: #114870;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: aliceblue;
+    text-align: justify;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+p.frase{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+span{
+    text-transform: uppercase;
+    color:#01193d;
+    font-weight: 800;
+}
